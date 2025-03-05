@@ -1,0 +1,17 @@
+# Visual Studio
+VisualStudio/build
+VisualStudio/.vs
+VisualStudio/.visualgdb
+VisualStudio/*.user
+
+*.bin
+*.hex
+*.csv
+*.png
+
+# STM32CubeIDE
+Debug/
+Release/
+.settings/
+*.launch
+mx.scratch
